@@ -4,4 +4,3 @@ Please write a program to generate all sentences where subject is in ["I", "You"
 
 Hints:
 Use list[index] notation to get a element from a list.
-
