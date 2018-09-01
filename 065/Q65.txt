@@ -12,4 +12,3 @@ In case of input data being supplied to the question, it should be assumed to be
 
 Hints:
 We can define recursive function in Python.
-
