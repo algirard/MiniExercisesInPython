@@ -4,4 +4,3 @@ By using list comprehension, please write a program to print the list after remo
 
 Hints:
 Use list comprehension to delete a bunch of element from a list.
-
